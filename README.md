@@ -1,5 +1,7 @@
-staging/*は削除されないようにする
-PR時に自動でマージされるようにする
+# Githubの運用ルール
+
+Pull Request時にheadブランチを自動的に削除します。
+「staging/*」は削除されないようにしてます。
 
 # Website
 
