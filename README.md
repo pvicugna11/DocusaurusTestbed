@@ -1,3 +1,5 @@
+staging/*は削除されないようにする
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
